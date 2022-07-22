@@ -32,7 +32,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wor
   
 </div>
 <a href="https://github.com/isaacunha">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacunha&layout=compact&langs_count=7&theme=dracula"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacunha&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
   <h3> Contact me! </h3>
