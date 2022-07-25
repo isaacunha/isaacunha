@@ -30,10 +30,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wor
   
 <br>
   
-</div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacunha&layout=compact&theme=highcontrast)
+</div>  
 <a href="https://github.com/isaacunha">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacunha&layout=compact&langs_count=7&theme=radical"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacunha&layout=compact&langs_count=7&highcontrast"/>
 </div>
 
   <h3> Contact me! </h3>
