@@ -9,7 +9,7 @@ src="https://c.tenor.com/jp9GJ56oYB8AAAAd/diegodrawsart-women-and-girls-in-scien
 - :world_map: Cartography and surveying engineering
 - 👨🏻‍💻 Developer
 - :artificial_satellite: Masters student in Agricultural Engineering at UNICAMP
-- :ear_of_rice: Precision Agriculture area.
+- :ear_of_rice: Precision Agriculture area
 - :eyes: I am curious to learn new things
 
 <div style="display: inline_block"><br>
@@ -31,7 +31,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wor
 <br>
   
 </div>  
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacunha&layout=compact&langs_count=7&theme=radical"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacunha&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   <h3> Contact me! </h3>
