@@ -8,9 +8,8 @@ src="https://c.tenor.com/jp9GJ56oYB8AAAAd/diegodrawsart-women-and-girls-in-scien
 
 - :world_map: Cartography and surveying engineering
 - 👨🏻‍💻 Developer
-- :artificial_satellite: Masters student in Agricultural Engineering at UNICAMP
+- :artificial_satellite: Master and PhD student in Agricultural Engineering at UNICAMP
 - :ear_of_rice: Precision Agriculture area
-- :eyes: I am curious to learn new things
 
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -18,14 +17,12 @@ src="https://c.tenor.com/jp9GJ56oYB8AAAAd/diegodrawsart-women-and-girls-in-scien
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
   <img align="center" height="40" width="50" 
 src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg">
- <img align="center" height="40" width="50" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
- <img align="center" height="40" width="50" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
- <img align="center"  height="40" width="50" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
- <img align="center"  height="40" width="50" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />       
+ <img align="center" height="50" width="50" 
+src="https://b.thumbs.redditmedia.com/X9PQAO7ZF1oj5ZxFmgWBFHP-xzqHlRJoUxnzBno2jcA.png" />
+ <img align="center"  height="50" width="50" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />  
+<img align="center"  height="50" width="50" 
+src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" />  
 <div>
   
 <br>
