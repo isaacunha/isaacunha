@@ -7,9 +7,8 @@ src="https://c.tenor.com/jp9GJ56oYB8AAAAd/diegodrawsart-women-and-girls-in-scien
 </div>
 
 - :world_map: Cartography and surveying engineering
-- 👨🏻‍💻 Developer
 - :artificial_satellite: Master and PhD student in Agricultural Engineering at UNICAMP
-- :ear_of_rice: Precision Agriculture area
+- :ear_of_rice: Precision Agriculture
 
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
